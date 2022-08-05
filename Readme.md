@@ -1,6 +1,4 @@
-Smile
-Sweet
-Sister
-Sadistic
-Surprise
-Service
+# โปรเจคเริ่มต้น
+
+  * โปรเจคแรกของการศึกษาเรื่อง GitHub
+  
